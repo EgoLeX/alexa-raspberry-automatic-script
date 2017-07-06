@@ -6,7 +6,7 @@ These .sh-Files can be execute and make it simple to start/stop all important st
 Please be sure you have done these two things before:
 - [x] Installed and worked Amazon Alexa Service on Raspberry PI
     https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
-- [x] Installed and worked screen
+- [x] Installed and worked screen - You can install it with: *sudo apt-get install screen*
   
 
 This script is available in multiple Languages and it will be updated and improved as often as possible. This is my first simple but useful script that makes easier to run Alexa on Raspberry Pi.
