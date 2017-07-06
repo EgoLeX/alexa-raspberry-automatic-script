@@ -3,7 +3,7 @@ This is an small and simple Project where you can find 2 scripts they can be exe
 The first script (start-script) is for starting all necessary windows. The second script (stop-script) is for stopping the Alexa Voice Service.
 These .sh-Files can be execute and make it simple to start/stop all important stuff that Alexa needs.
 
-Please be sure you have done these two things before:
+**Please be sure you have done these two things before:**
 - [x] Installed and worked Amazon Alexa Service on Raspberry PI
     https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
 - [x] Installed and worked screen - You can install it with: *sudo apt-get install screen*
