@@ -1,5 +1,5 @@
 # alexa-raspberry-automatic-script
-This is an small and simple Project where you can find 2 scripts they can be executable to start the Amazon Alexa Voice Service on Raspberry Pi.
+This is an small and simple Project where you can find 2 scripts they can be execute to start the Amazon Alexa Voice Service on Raspberry Pi.
 The first script (start-script) is for starting all necessary windows. The second script (stop-script) is for stopping the Alexa Voice Service.
 These .sh-Files can be execute and make it simple to start/stop all important stuff that Alexa needs.
 
