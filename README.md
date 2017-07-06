@@ -11,11 +11,11 @@ These .sh-Files can be execute and make it simple to start/stop all important st
 
 This script is available in multiple Languages and it will be updated and improved as often as possible. This is my first simple but useful script that makes easier to run Alexa on Raspberry Pi.
 
-If you want that Alexa starts on automaticly on Systemstart, just add the PATH/TO/YOUR/FILE.sh in the ".profiles" File in the pi(user) Directory.
+If you want that Alexa starts automaticly on Systemstart, just add the PATH/TO/YOUR/FILE.sh in the ".profiles" File in the pi(user) Directory.
 
 
 **Important**
 
-Please be sure to use this Start-Script only once and Stop it first before starting Alexa twice. If you run the Start-Script twice it can be possible that the Alexa Voice Service wont work. If you want going sure that Alexa is running, just Ask here anything or use the following command in terminal:
+Please be sure to use this Start-Script only once and Stop it first before starting Alexa twice. If you run the Start-Script twice it can be possible that the Alexa Voice Service wont work. If you want going sure that Alexa is running, just Ask she anything or use the following command in terminal:
 > screen -ls
 
